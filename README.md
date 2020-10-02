@@ -14,7 +14,6 @@ O Insertion sort é um algoritmo simples e eficiente quando aplicado em pequenas
 
 ## 04 Shell Sort
 O shell sort, às vezes chamaado de “ordenação por incrementos diminutos”, melhora a ordenação por inserção ao quebrar a lista original em um número menor de sublistas, as quais são ordenadas usando a ordenação por inserção. A forma única como essas sublistas são escolhidas é a chave para o shell sort. Em vez de quebrar a lista em sublistas de itens contíguos, o shell sort usa um incremento i, às vezes chamado de gap, para criar uma sublista escolhendo todos os itens que estão afastados i itens uns dos outros.
-<p align="center"> <img src="https://www.globalsoftwaresupport.com/wp-content/uploads/2017/02/ezgif.com-video-to-gif-13-1.gif" width="450" title="hover text"> </p>
 
 # ALGORITMOS MAIS EFICIENTES:
 
